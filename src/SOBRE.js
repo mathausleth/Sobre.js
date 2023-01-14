@@ -28,6 +28,7 @@ const V = '';
 //--!--
 // -> Les Namespaces (MAJUSCULES et ANGLAIS):
 //#region
+SOBRE.CRYPTO = {};
 SOBRE.ENUM = {};
 //#endregion
 //--!--
