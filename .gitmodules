@@ -1,0 +1,3 @@
+[submodule "src/SOBRE.ENUM"]
+	path = src/SOBRE.ENUM
+	url = https://github.com/mathausleth/SOBRE.ENUM.git
