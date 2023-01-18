@@ -30,6 +30,7 @@ const V = '';
 //#region
 SOBRE.CRYPTO = {};
 SOBRE.ENUM = {};
+SOBRE.MEMORY = {};
 //#endregion
 //--!--
 // -> Les Fonctions (UpperCamelCase et FRANCAIS):

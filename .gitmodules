@@ -4,3 +4,6 @@
 [submodule "src/SOBRE.CRYPTO"]
 	path = src/SOBRE.CRYPTO
 	url = https://github.com/mathausleth/SOBRE.CRYPTO.git
+[submodule "src/SOBRE.MEMORY"]
+	path = src/SOBRE.MEMORY
+	url = https://github.com/mathausleth/SOBRE.MEMORY.git
