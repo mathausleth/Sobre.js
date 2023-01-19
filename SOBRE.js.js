@@ -49,13 +49,13 @@ SOBRE.ArrondirDecimales = function (number, decimals = 2) {
     }
     return (Math.round(number * multiplicateur) / multiplicateur);
 };
-SOBRE.exists = function (something) {
-    return (something !== N && something !== U && something !== 'null' && something !== 'undefined');
-};
 //#endregion
 //--!--
 // -> Les Fonctions 'booléennes' (lowerCamelCase et ANGLAIS):
 //#region
+SOBRE.exists = function (something) {
+    return (something !== N && something !== U && something !== 'null' && something !== 'undefined');
+};
 SOBRE.isFunction = function (something) {
     return (typeof something === 'function');
 };
