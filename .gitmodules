@@ -7,3 +7,6 @@
 [submodule "src/SOBRE.MEMORY"]
 	path = src/SOBRE.MEMORY
 	url = https://github.com/mathausleth/SOBRE.MEMORY.git
+[submodule "src/SOBRE.FILE"]
+	path = src/SOBRE.FILE
+	url = https://github.com/mathausleth/SOBRE.FILE.git

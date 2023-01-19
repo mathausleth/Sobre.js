@@ -30,6 +30,7 @@ const V = '';
 //#region
 SOBRE.CRYPTO = {};
 SOBRE.ENUM = {};
+SOBRE.FILE = {};
 SOBRE.MEMORY = {};
 //#endregion
 //--!--
