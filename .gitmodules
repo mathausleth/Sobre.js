@@ -10,3 +10,6 @@
 [submodule "src/SOBRE.FILE"]
 	path = src/SOBRE.FILE
 	url = https://github.com/mathausleth/SOBRE.FILE.git
+[submodule "src/SOBRE.TCP"]
+	path = src/SOBRE.TCP
+	url = https://github.com/mathausleth/SOBRE.TCP.git

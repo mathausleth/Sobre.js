@@ -32,7 +32,7 @@ SOBRE.CRYPTO = {};
 SOBRE.ENUM = {};
 SOBRE.FILE = {};
 SOBRE.MEMORY = {};
-
+SOBRE.TCP = {};
 //SOBRE.FILE (dépendences)
 //todo: remplacer par les vrais modules
 SOBRE.CLASS = {};
